@@ -1,10 +1,4 @@
-# HX ASSESSMENT MODEL
-
-This is a Python implementation for HX Solution Engineer assesment model.
-
-- **Please note: Drone and Camera adjustments are computed by default.**
-- comment out `PremiumAdjustments.limited_drones_in_use(drones, max_drones_in_air)` in `main.py` to remove.
-- Do the same for `PremiumAdjustments.limited_cameras_in_use(cameras, max_drones_in_air, drones)`
+# This repo computes Insurance premiums for UAVs (Drones) based on weight, price and other factors.
 
 ## Project Structure
 
