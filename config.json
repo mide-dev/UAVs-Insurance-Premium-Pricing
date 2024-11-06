@@ -1,0 +1,16 @@
+{
+  "gross_base_rates": {
+    "hull": 0.06,
+    "liability": 0.02
+  },
+  "ilf_riebesell_curve": {
+    "base_limit": 1000000,
+    "z": 0.2
+  },
+  "max_takeoff_weight_adj": {
+    "0 - 5kg": 1,
+    "5 - 10kg": 1.2,
+    "10 - 20kg": 1.6,
+    ">20kg": 2.5
+  }
+}
